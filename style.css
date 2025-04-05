@@ -1,0 +1,44 @@
+.rang{
+    
+    background-color: blue;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+.qizil{
+    color: red;
+}
+
+.yashil{
+    color: green;
+}
+.faktlar{
+    color: green;
+    border: 2px solid yellow;
+    background-color: yellow;
+    text-align: center;
+}
+.korish{
+    color: green;
+    border:2px solid yellow ;
+    background-color: yellow;
+    text-align: center;
+}
+.fikr{
+    color: green;
+}
+.input{
+    border: 23px solid white;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+.sevimli{
+    color: green;
+}
+.hayvonlar{
+    color: green;
+    border: 2px solid yellow;
+    background-color: yellow;
+    text-align: center;
+}
